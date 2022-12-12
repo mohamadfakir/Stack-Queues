@@ -3,6 +3,7 @@ package uc4dequeue;
 import uc2peakpop.Stack;
 
 public class Queue {
+    
     public class QNode {
 
         int qKey;
