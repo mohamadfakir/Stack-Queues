@@ -1,6 +1,7 @@
 package uc1createstack;
 
 public class CreateStack {
+    
     public static Node head;
     public class Node {
 
