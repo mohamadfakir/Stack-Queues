@@ -1,6 +1,7 @@
 package uc2peakpop;
 
 public class Stack {
+    
     public static Node head;
     public class Node {
 
