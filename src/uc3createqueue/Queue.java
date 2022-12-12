@@ -3,6 +3,7 @@ package uc3createqueue;
 import uc2peakpop.Stack;
 
 public class Queue {
+    
     QNode front ,rear;
 
     public Queue() {
